@@ -1,18 +1,21 @@
 # Hi! I'm Evan Jules
 
-I am a **Data Analyst & Data Science** Learner passionate about transforming raw data into actionable insights.
+I am a **Data Analyst & Data Science Learner**, passionate about transforming raw data into actionable insights.
 
 My work focuses on **data analysis, visualization, and basic machine learning**, turning raw datasets into insights and simple predictive models.
 
+---
 
 ## 🔍 Core Expertise
 
 - Exploratory Data Analysis (EDA) & data storytelling  
-- Dashboard development (Tableau)  
-- Statistical analysis & hypothesis testing  
+- Dashboard (Tableau, Kibana)  
+- Statistical analysis & Hypothesis testing  
 - Machine learning (regression, classification)  
-- Data cleaning and feature engineering  
+- Data Cleaning and Feature Engineering  
 - End-to-end data workflows  
+
+---
 
 ## 🛠 Tech Stack
 
@@ -30,14 +33,13 @@ My work focuses on **data analysis, visualization, and basic machine learning**,
 
 ### Machine Learning
 - Scikit-learn
-- Regression, Random Forest
-- Artificial Neural Networks (ANN)
+- Regression
+- Classification
 
 ### Data Engineering
 - Apache Airflow
 - Docker
 - PostgreSQL
-- MongoDB
 - Great Expectations (data validation)
 
 ### Deployment
@@ -53,7 +55,7 @@ My work focuses on **data analysis, visualization, and basic machine learning**,
 
 **(Data Scientist)**
 
-🔗 [Repository Link](https://github.com/username/repository-name)
+🔗 [Repository Link](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-051-rmt-group-001)
 
 End-to-end predictive system for identifying high-risk e-commerce orders using the Brazilian Olist dataset.
 
